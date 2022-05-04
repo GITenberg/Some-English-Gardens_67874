@@ -1,0 +1,50 @@
+_repo: Some-English-Gardens_67874
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Elgood, George Samuel
+    alias: Elgood, George S.
+    birthdate: 1851
+    deathdate: 1943
+    gutenberg_agent_id: '49564'
+    url: http://www.gutenberg.org/2009/agents/49564
+    wikipedia: https://en.wikipedia.org/wiki/George_Samuel_Elgood
+creator:
+  author:
+    agent_name: Jekyll, Gertrude
+    birthdate: 1843
+    deathdate: 1932
+    gutenberg_agent_id: '38184'
+    url: http://www.gutenberg.org/2009/agents/38184
+    wikipedia: https://en.wikipedia.org/wiki/Gertrude_Jekyll
+description: ''
+gutenberg_issued: '2022-04-19'
+identifiers:
+  gutenberg: '67874'
+  lccn: '05010535'
+language: en
+pgterms:marc905: 20151127054817jekyll
+pgterms:marc906: '1904'
+pgterms:marc907: GB
+production_note: Cathy Maxam, Chuck Greif and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: United Kingdom :Longmans, Green and Co.,1904.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'SB'
+- !lcsh 'Gardens -- England'
+- !lcsh 'Landscape gardening'
+- GITenberg
+tableOfContents: 'Brockenhurst -- Hollyhocks at Blyborough -- Great Tangley Manor
+  -- Bulwick Hall -- Bramham -- Melbourne -- Berkeley Castle -- Summer Flowers --
+  The yew alley, Rockingham -- Brympton -- Balcaskie -- Crathes Castle -- Kellie Castle
+  -- Hardwick -- Montacute -- Ramscliffe -- Levens -- Campsey Ashe -- Cleeve Prior
+  -- Condover -- Speke Hall -- Garden roses -- Penshurst -- Brickwall -- Stone Hall,
+  Easton -- The Deanery garden, Rochester -- Compton Wynyates -- Palmerstown -- St.
+  Anne''s, Clontarf -- Auchincruive -- Yew arbour: Lyde -- Autumn flowers -- Mynthurst
+  -- Abbey Leix -- Michaelmas daisies -- Arley -- Lady Coventry''s needlework.'
+title: Some English Gardens
+url: http://www.gutenberg.org/ebooks/67874
