@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '49564'
     url: http://www.gutenberg.org/2009/agents/49564
     wikipedia: https://en.wikipedia.org/wiki/George_Samuel_Elgood
+covers:
+- cover_type: archival
+  image_path: 67874-h/images/cover.jpg
 creator:
   author:
     agent_name: Jekyll, Gertrude
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/38184
     wikipedia: https://en.wikipedia.org/wiki/Gertrude_Jekyll
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67874#Some-English-Gardens
 gutenberg_issued: '2022-04-19'
 identifiers:
   gutenberg: '67874'
